@@ -1,0 +1,10 @@
+{
+    "PORT1": 3000,
+    "PORT2": 465,
+    "From":"rehmatullah@encapsulatech.com",
+    "To":"rehmatullah@encapsulatech.com",
+    "User":"homebuyer@encapsulatech.com",
+    "Pass":"",
+    "host": "server225.web-hosting.com",
+    "MONGO_CONNECTION": "mongodb+srv://root:admin@cluster0-ghzek.mongodb.net/test"
+}

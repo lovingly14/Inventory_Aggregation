@@ -1,0 +1,37 @@
+{
+  "name": "test-inventory",
+  "version": "1.0.0",
+  "description": "Test project for node.js training of Ahmad and Rehmat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zohaib545/test-inventory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zohaib545/test-inventory/issues"
+  },
+  "homepage": "https://github.com/zohaib545/test-inventory#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "electron-pdf": "^4.0.2",
+    "eslint": "^5.14.1",
+    "express": "^4.16.4",
+    "fast-csv": "^2.4.1",
+    "json2csv": "^4.3.5",
+    "json2xls": "^0.1.2",
+    "jsreport-client": "^1.0.2",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.11",
+    "nodemailer": "^5.1.1",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "nodemon": "^1.18.10",
+    "path": "^0.12.7",
+    "puppeteer": "^1.13.0"
+  }
+}

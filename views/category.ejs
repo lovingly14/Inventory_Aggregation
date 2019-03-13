@@ -1,0 +1,22 @@
+<html>
+        <head>		</head>
+<body>      
+    <Table border="1" style="width:100%;">
+
+    <tr>
+        <td class="header">Id</td>
+        <td class="header">Name</td>
+        <td class="header">Parent Category ID</td> 
+    </tr>
+        <%data.forEach(function(data) {%>
+        <tr>
+            <td><%= data._id %></td>
+            <td><%= data.name %></td>
+            <td><%= data.parentId%></td>
+        </tr>
+        <%})%>
+    
+    </Table>
+
+</body>
+</html>
